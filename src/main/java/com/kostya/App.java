@@ -35,9 +35,26 @@ public class App {
         }
 
         String[] names = {
-            "icon-1.png", "icon-2.png", "icon-3.png", "icon-4.png", "icon-5.png", "icon-6.png", "icon-7.png",
-            "icon-8.png", "icon-9.png", "icon-10.png", "icon-11.png", "icon-12.png", "icon-13.png", "icon-14.png",
-            "icon-15.png", "icon-16.png", "icon-17.png", "icon-18.png", "icon-19.png", "icon-20.png",
+            "icon-1.png",
+            "icon-2.png",
+            "icon-3.png",
+            "icon-4.jpg",
+            "icon-5.png",
+            "icon-6.png",
+            "icon-7.png",
+            "icon-8.png",
+            "icon-9.png",
+            "icon-10.jpg",
+            "icon-11.png",
+            "icon-12.png",
+            "icon-13.jpeg",
+            "icon-14.jpeg",
+            "icon-15.jpeg",
+            "icon-16.png",
+            "icon-17.png",
+            "icon-18.png",
+            "icon-19.jpeg",
+            "icon-20.png"
         };
 
         try (PDDocument doc = new PDDocument()) {
