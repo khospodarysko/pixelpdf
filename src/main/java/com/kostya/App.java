@@ -44,7 +44,7 @@ public class App {
             "icon-7.png",
             "icon-8.png",
             "icon-9.png",
-            "icon-10.jpg",
+            "icon-10.png",
             "icon-11.png",
             "icon-12.png",
             "icon-13.jpeg",
